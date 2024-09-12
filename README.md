@@ -1,4 +1,4 @@
-Computer Science A-Level Individual Project: Hospice Scheduling and Route Planning System
+# Computer Science A-Level Individual Project: Hospice Scheduling and Route Planning System
 - End-to-end project for a scheduling tool to manage nurse in-home visits for Hospice patients
 - The tool enables allocation of work based on resource availability, shift patterns, efficient route planning and patient needs priority
 
